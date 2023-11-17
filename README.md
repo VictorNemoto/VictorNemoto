@@ -1,6 +1,6 @@
 ### Ola eu sou Victor Ryuichi Nemoto
 
-- 🔭 Hoje trabalho como fullstack trainee
+- 🔭 Hoje trabalho como fullstack junior em asp net mvc 5 na empresa Luxcel
 - 🌱 estudando React
 - 😄 ele/dele
 
