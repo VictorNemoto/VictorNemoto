@@ -1,7 +1,7 @@
 ### Ola eu sou Victor Ryuichi Nemoto
 
 - 🔭 Hoje trabalho como fullstack junior em asp net  na empresa Luxcel/Maxlog
-- 🌱 estudando React
+- 🌱 estudando Sql Server
 - 😄 ele/dele
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNemoto)](https://github.com/anuraghazra/github-readme-stats)
